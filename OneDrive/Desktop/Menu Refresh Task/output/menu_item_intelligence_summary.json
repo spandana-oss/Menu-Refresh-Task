@@ -1,0 +1,139 @@
+{
+  "total_menu_rows": 221769,
+  "excluded_non_food_rows": 164,
+  "restaurants_analyzed": 2107,
+  "average_performance_score": 50.7,
+  "action_counts": {
+    "Keep": 100850,
+    "Refresh Recipe": 77392,
+    "Remove": 27565,
+    "Rename": 14480,
+    "Reposition": 1172,
+    "Add Variant": 304,
+    "Promote": 6
+  },
+  "top_items": [
+    {
+      "restaurant_name": "Jt's Burgers and Wings",
+      "menu_item": "Small Buffalo Chicken Salad",
+      "performance_score": 76.1,
+      "recommended_action": "Promote"
+    },
+    {
+      "restaurant_name": "Jt's Burgers and Wings",
+      "menu_item": "Large Buffalo Chicken Salad",
+      "performance_score": 76.1,
+      "recommended_action": "Promote"
+    },
+    {
+      "restaurant_name": "Portales Mexican Tapas & Tequila",
+      "menu_item": "Birria Ramen Soup",
+      "performance_score": 75.4,
+      "recommended_action": "Promote"
+    },
+    {
+      "restaurant_name": "Pops Comfort Kitchen",
+      "menu_item": "Chicken & Grits",
+      "performance_score": 75.4,
+      "recommended_action": "Promote"
+    },
+    {
+      "restaurant_name": "Jt's Burgers and Wings",
+      "menu_item": "Small Taco Salad",
+      "performance_score": 75.0,
+      "recommended_action": "Promote"
+    },
+    {
+      "restaurant_name": "Jt's Burgers and Wings",
+      "menu_item": "Large Taco Salad",
+      "performance_score": 75.0,
+      "recommended_action": "Promote"
+    },
+    {
+      "restaurant_name": "Jt's Burgers and Wings",
+      "menu_item": "Chicken Hoagie",
+      "performance_score": 74.6,
+      "recommended_action": "Keep"
+    },
+    {
+      "restaurant_name": "Jt's Burgers and Wings",
+      "menu_item": "Large House Salad W/ Chicken",
+      "performance_score": 74.6,
+      "recommended_action": "Keep"
+    },
+    {
+      "restaurant_name": "Jt's Burgers and Wings",
+      "menu_item": "Small House Salad W/ Chicken",
+      "performance_score": 74.6,
+      "recommended_action": "Keep"
+    },
+    {
+      "restaurant_name": "Munford Cafe",
+      "menu_item": "Homemade Chili (bowl)",
+      "performance_score": 74.6,
+      "recommended_action": "Add Variant"
+    }
+  ],
+  "weak_items": [
+    {
+      "restaurant_name": "El Mezcal",
+      "menu_item": "Sour Cream",
+      "performance_score": 31.5,
+      "recommended_action": "Remove"
+    },
+    {
+      "restaurant_name": "Jamrack Restaurant and Bar",
+      "menu_item": "Steamed Cabbage",
+      "performance_score": 31.5,
+      "recommended_action": "Remove"
+    },
+    {
+      "restaurant_name": "Fresh &amp; Ready From Kroger",
+      "menu_item": "Large Granny Smith Apple - Each",
+      "performance_score": 31.5,
+      "recommended_action": "Remove"
+    },
+    {
+      "restaurant_name": "Otherlands Coffee Bar",
+      "menu_item": "Two Slices Of Cheesy Toast One Slice",
+      "performance_score": 31.5,
+      "recommended_action": "Remove"
+    },
+    {
+      "restaurant_name": "Molly\u2019s La Casita",
+      "menu_item": "Byo Baked Potato",
+      "performance_score": 31.5,
+      "recommended_action": "Remove"
+    },
+    {
+      "restaurant_name": "Molly\u2019s La Casita",
+      "menu_item": "Byo Baked Potato",
+      "performance_score": 31.5,
+      "recommended_action": "Remove"
+    },
+    {
+      "restaurant_name": "Fresh &amp; Ready From Kroger",
+      "menu_item": "Hellmann's Real Mayonnaise (fl Oz)",
+      "performance_score": 31.5,
+      "recommended_action": "Remove"
+    },
+    {
+      "restaurant_name": "Tekila Mexican Cuisine / Steakhouse",
+      "menu_item": "Steak Sauce Side",
+      "performance_score": 31.5,
+      "recommended_action": "Remove"
+    },
+    {
+      "restaurant_name": "Huey's Midtown",
+      "menu_item": "Tater Tots",
+      "performance_score": 31.5,
+      "recommended_action": "Remove"
+    },
+    {
+      "restaurant_name": "Otherlands Coffee Bar",
+      "menu_item": "Two Slices Of Toast One Slice",
+      "performance_score": 31.5,
+      "recommended_action": "Remove"
+    }
+  ]
+}

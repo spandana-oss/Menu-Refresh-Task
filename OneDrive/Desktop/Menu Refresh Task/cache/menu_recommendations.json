@@ -1,0 +1,21 @@
+{
+  "{\"age_demand_level\": \"Young Demand High\", \"beverage_level\": \"Medium\", \"competition_level\": \"High\", \"cuisine_focus_level\": \"Medium\", \"cuisine_variety_level\": \"Low\", \"customer_engagement_level\": \"High\", \"fast_food_level\": \"High\", \"growth_level\": \"Stable\", \"healthy_level\": \"Medium\", \"income_level\": \"Low\", \"market_segment\": \"Wings Market\", \"price_position\": \"value-oriented trade area\", \"restaurant_category\": \"Wings-focused restaurant\", \"wings_level\": \"High\"}": {
+    "market_insight": "High Demand Wings",
+    "customer_behavior": "Young Frequent",
+    "strategy_label": "Value Focus",
+    "priority": "High",
+    "add_items": [
+      "Spicy Wings",
+      "Combo Meals",
+      "Craft Beer"
+    ],
+    "remove_items": [
+      "Salads"
+    ],
+    "modify_items": [
+      "Kids Menu"
+    ],
+    "pricing_action": "Discount Deals",
+    "final_action": "Optimize Menu Pricing"
+  }
+}
